@@ -33,7 +33,7 @@ export default function FeaturesOverview() {
 			Icon: FaExchangeAlt, // Transfer icon
 			name: "Transfer and Receive Crypto",
 			description:
-				"Send and receive cryptocurrency easily and securely, all from within our platform.",
+				"Send and receive cryptocurrency easily and securely all from within our platform.",
 			href: "/",
 			cta: "Learn more",
 			background: "",
