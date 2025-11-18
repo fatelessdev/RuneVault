@@ -9,6 +9,8 @@ const nextConfig = {
   images: {
     domains: ["www.cryptocompare.com", "lh3.googleusercontent.com"], // Add allowed domains here
   },
+  // Enable standalone output for Docker deployment
+  output: 'standalone',
   async redirects() {
 		return [
 			{
